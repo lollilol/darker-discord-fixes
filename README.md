@@ -13,3 +13,6 @@ rightclick, save [this file](https://raw.githubusercontent.com/lollilol/darker-d
 
 rightclick, save [this file](https://raw.githubusercontent.com/lollilol/darker-discord-fixes/master/full_autotheme.theme.css) in your **betterdiscord/themes** folder.
 also make sure you disable any other darker discord theme.
+
+
+also make sure that you have the correct filename, a theme must be named "themename.**theme.css**"
