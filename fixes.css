@@ -29,3 +29,7 @@ div.bd-addon-header {
 div.bd-description-wrap, div.bd-footer {
     background-color: var(--secondary);
 }
+
+form.authBoxExpanded-2jqaBe.authBox-hW6HRx.theme-dark {
+    background-color: var(--primary);
+}
