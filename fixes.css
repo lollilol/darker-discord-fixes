@@ -36,3 +36,27 @@ form.authBoxExpanded-2jqaBe.authBox-hW6HRx.theme-dark {
     background-color: var(--primary);
 }
 
+/* invitation screen */
+div.scroller-3__pG8.da-scroller.thin-1ybCId.scrollerBase-289Jih {
+    background-color: var(--primary);
+}
+
+/* buttons for example in the main (discord button in the top left) -> friends section */
+.da-actionButton {
+    background-color: var(--secondary);
+}
+
+/* footer in several dialogs (like the "pin message" or screen share dialog) */
+div.flex-1xMQg5.flex-1O1GKY.da-flex.horizontalReverse-2eTKWD {
+    background-color: var(--secondary);
+}
+
+/* server screen share and camera buttons  */
+button.button-1YfofB.da-button.buttonColor-7qQbGO {
+    background-color: var(--primary);
+}
+
+/* promotion cards in the discord nitro page and  */
+li.feature-2w65J5.da-feature, div.promotionBanner-1fCSab.da-promotionBanner.banner-WELp4M.da-banner {
+    background-color: var(--secondary);
+}
