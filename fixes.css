@@ -6,11 +6,11 @@
 .theme-dark .members-1998pB, .members-1998pB>div {
     background-color: var(--primary);
 }
-
 .container-3w7J-x {
     background-color: var(--primary);
 }
 
+/* avatar card in the "my account" settings page */
 div.background-1QDuV2 {
     background-color: var(--secondary-alt);
 }
@@ -18,18 +18,21 @@ div.fieldList-21DyL8 {
     background-color: var(--secondary);
 }
 
-div.radioBar-bMNUI-{
+/* selection things with radio buttons */
+div.radioBar-bMNUI- {
     background-color: var(--secondary);
 }
 
+/* plugins and theme cards from betterdiscord 1.0 (currently in beta as of 6. january 2021) */
 div.bd-addon-header {
     background-color: var(--secondary-alt) !important;
 }
-
 div.bd-description-wrap, div.bd-footer {
     background-color: var(--secondary);
 }
 
+/* login box (for when you are logged out) */
 form.authBoxExpanded-2jqaBe.authBox-hW6HRx.theme-dark {
     background-color: var(--primary);
 }
+
