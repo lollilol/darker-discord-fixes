@@ -73,3 +73,8 @@ button.inner-2Y6JuD.da-inner.accountBtnInner-sj5jLs.da-accountBtnInner {
 div.authedApp-mj2Hmd.da-authedApp.marginBottom8-AtZOdT.da-marginBottom8.cardPrimaryOutline-29Ujqw.card-3Qj_Yx.da-cardPrimaryOutline.da-card {
     background-color: var(--secondary);
 }
+
+/* 2 factor auth and captcha page */
+.authBox-hW6HRx.theme-dark {
+    background-color: var(--primary);
+}
