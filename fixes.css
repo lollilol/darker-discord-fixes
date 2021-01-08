@@ -116,3 +116,35 @@ div.body-3iLsc4.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 {
 div.container-2fRDfG {
     background-color: var(--secondary-alt);
 }
+
+
+/* search page */
+/* div.searchHeader-2XoQg7 {
+    background-color: var(--primary);
+}
+div.scroller-3GIiMh.thin-1ybCId.scrollerBase-289Jih {
+    background-color: var(--primary);
+}*/
+
+/* channel name */
+span.channelName-1JRO3C {
+    background-color: var(--primary);
+}
+
+/* main message unexpanded */
+div.searchResultMessage-1fxgXh.hit-1fVM9e {
+    background-color: var(--primary);
+}
+
+/* fix the gradient at the top and bottom, cant get it fixed at the middle/main message */
+.searchResult-9tQ1uo:before, .searchResult-9tQ1uo:after {
+    background-image: linear-gradient(0deg,transparent,var(--primary));
+}
+
+/* messages are expanded */
+.expanded-w_LCGl .searchResultMessage-1fxgXh.hit-1fVM9e {
+    background-color: var(--primary);
+}
+.searchResult-9tQ1uo.expanded-w_LCGl {
+    background-color: var(--secondary);
+}
