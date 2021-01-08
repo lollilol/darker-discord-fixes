@@ -18,7 +18,7 @@ div.fieldList-21DyL8 {
     background-color: var(--secondary);
 }
 
-/* selection things with radio buttons */
+/* selection things with radio buttons, mostly seen in the settings */
 div.radioBar-bMNUI- {
     background-color: var(--secondary);
 }
@@ -41,8 +41,11 @@ div.scroller-3__pG8.da-scroller.thin-1ybCId.scrollerBase-289Jih {
     background-color: var(--primary);
 }
 
-/* buttons for example in the main (discord button in the top left) -> friends section */
-.da-actionButton {
+/* buttons and search bar in the friends section */
+div.actionButton-uPB8Fs {
+    background-color: var(--secondary);
+}
+div.inner-2P4tQO {
     background-color: var(--secondary);
 }
 
