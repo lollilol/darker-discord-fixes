@@ -78,3 +78,28 @@ div.authedApp-mj2Hmd.da-authedApp.marginBottom8-AtZOdT.da-marginBottom8.cardPrim
 .authBox-hW6HRx.theme-dark {
     background-color: var(--primary);
 }
+
+/* inbox */
+div.header-2-Imhb.header-ykumBX {
+    background-color: var(--secondary);
+}
+
+div.scroller-tlc3kG.thin-1ybCId.scrollerBase-289Jih {
+    background-color: var(--primary);
+}
+
+div.button-1-5Aqk.secondary-dIudih {
+    background-color: var(--secondary-alt);
+}
+div.channelHeader-3Gd2xq {
+    background-color: var(--secondary);
+}
+div.messageContainer-gbhlwo {
+    background-color: var(--secondary-alt);
+}
+div.closeButton-1152MI.button-1-5Aqk.tertiary-aMXF0g {
+    background-color: var(--secondary-alt);
+}
+div.messages-3G3erD {
+    background-color: var(--secondary-alt);
+}
