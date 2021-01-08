@@ -119,12 +119,12 @@ div.container-2fRDfG {
 
 
 /* search page */
-/* div.searchHeader-2XoQg7 {
+ div.searchHeader-2XoQg7 {
     background-color: var(--primary);
 }
 div.scroller-3GIiMh.thin-1ybCId.scrollerBase-289Jih {
     background-color: var(--primary);
-}*/
+}
 
 /* channel name */
 span.channelName-1JRO3C {
@@ -147,4 +147,10 @@ div.searchResultMessage-1fxgXh.hit-1fVM9e {
 }
 .searchResult-9tQ1uo.expanded-w_LCGl {
     background-color: var(--secondary);
+}
+
+
+/* "jump to new messages" button */
+div.jumpToPresentBar-G1R9s6.barBase-1c2Rfb {
+    background-color: var(--secondary-alt);
 }
