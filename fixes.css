@@ -149,8 +149,11 @@ div.searchResultMessage-1fxgXh.hit-1fVM9e {
     background-color: var(--secondary);
 }
 
-
 /* "jump to new messages" button */
-div.jumpToPresentBar-G1R9s6.barBase-1c2Rfb {
+div.da-jumpToPresentBar.da-barBase {
+    background-color: var(--secondary-alt);
+}
+
+div.da-tooltip.da-tooltipDisablePointerEvents.da-listItemTooltip {
     background-color: var(--secondary-alt);
 }
