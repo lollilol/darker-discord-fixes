@@ -185,3 +185,7 @@ div.da-tooltip.da-tooltipDisablePointerEvents.da-listItemTooltip {
 div.emptyCard-1RJw8n {
     background-color: var(--secondary);
 }
+/* currently selected text channel */
+div.modeSelected-346R90 > div.content-1x5b-n.da-content {
+    background-color: var(--secondary);
+}
