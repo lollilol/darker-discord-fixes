@@ -213,3 +213,8 @@ div.modeSelected-346R90 > div.content-1x5b-n.da-content {
 div.iconVisibility-sTNpHs.da-iconVisibility.wrapper-2jXpOf.da-wrapper:hover > div.content-1x5b-n.da-content:hover {
     background-color: var(--secondary-alt);
 }
+
+/* discord icon at the top left (also themes my "read all" button, added by a plugin */
+.childWrapper-anI2G9 {
+    background-color: var(--primary);
+}
