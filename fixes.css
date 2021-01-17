@@ -46,6 +46,11 @@ div.scroller-3__pG8.da-scroller.thin-1ybCId.scrollerBase-289Jih {
 div.actionButton-uPB8Fs {
     background-color: var(--secondary);
 }
+/* hover */
+div.peopleListItem-2nzedh:hover .actionButton-uPB8Fs {
+    box-shadow: none;
+    background-color: var(--secondary-alt);
+}
 div.inner-2P4tQO {
     background-color: var(--secondary);
 }
