@@ -1,3 +1,18 @@
+/* add San Francisco Font, if its installed
+
+put  
+
+body {
+    font-family: Whitney;
+}
+
+in custom css to disable
+
+*/
+body {
+    font-family: SF Pro Display, Whitney;
+}
+
 /* remove the little gradient left from the chatbox */
 .form-2fGMdU:before {
     height: 0;
@@ -197,20 +212,4 @@ div.modeSelected-346R90 > div.content-1x5b-n.da-content {
 /* hovering text channels */
 div.iconVisibility-sTNpHs.da-iconVisibility.wrapper-2jXpOf.da-wrapper:hover > div.content-1x5b-n.da-content:hover {
     background-color: var(--secondary-alt);
-}
-
-
-/* add San Francisco Font, if its installed
-
-put  
-
-body {
-    font-family: Whitney;
-}
-
-in custom css to disable
-
-*/
-body {
-    font-family: SF Pro Display, Whitney;
 }
