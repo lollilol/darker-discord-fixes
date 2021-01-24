@@ -223,3 +223,29 @@ div.iconVisibility-sTNpHs.da-iconVisibility.wrapper-2jXpOf.da-wrapper:hover > di
 div.container-3u944p {
     background-color: var(--primary);
 }
+
+/* screen share selection stuff */
+div.card-2Mz_4z {
+    background-color: var(--secondary);
+}
+button.changeButton-278ZT6 {
+    background-color: var(--primary) !important;
+}
+button.changeButton-278ZT6:hover {
+    background-color: var(--background-secondary-alt) !important;
+}
+button.button-38aScr.colorPrimary-3b3xI6 {
+    background-color: var(--primary) !important;
+}
+button.button-38aScr.colorPrimary-3b3xI6:hover {
+    background-color: var(--background-secondary-alt) !important;
+}
+button.item-3T2z1R.selectorButton-EEUWed {
+    background-color: var(--secondary) !important;
+}
+button.item-3T2z1R.selectorButton-EEUWed:hover {
+    background-color: var(--background-secondary-alt) !important;
+}
+button.item-3T2z1R.selectorButtonSelected-t5V9On {
+    background-color: var(--accentcolor) !important;
+}
