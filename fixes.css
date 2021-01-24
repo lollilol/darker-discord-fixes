@@ -1,3 +1,18 @@
+/* add San Francisco Font, if its installed
+
+put  
+
+body {
+    font-family: Whitney;
+}
+
+in custom css to disable
+
+*/
+body {
+    font-family: SF Pro Display, Whitney;
+}
+
 /* remove the little gradient left from the chatbox */
 .form-2fGMdU:before {
     height: 0;
@@ -45,6 +60,11 @@ div.scroller-3__pG8.da-scroller.thin-1ybCId.scrollerBase-289Jih {
 /* buttons and search bar in the friends section */
 div.actionButton-uPB8Fs {
     background-color: var(--secondary);
+}
+/* hover */
+div.peopleListItem-2nzedh:hover .actionButton-uPB8Fs {
+    box-shadow: none;
+    background-color: var(--secondary-alt);
 }
 div.inner-2P4tQO {
     background-color: var(--secondary);
@@ -172,11 +192,6 @@ div.tab-2j5AEF.da-tab.selected-2LAck8.da-selected {
    background-color: var(--primary);
 }
 
-
-
-
-
-
 /* "jump to new messages" button */
 div.da-jumpToPresentBar.da-barBase {
     background-color: var(--secondary-alt);
@@ -184,4 +199,27 @@ div.da-jumpToPresentBar.da-barBase {
 
 div.da-tooltip.da-tooltipDisablePointerEvents.da-listItemTooltip {
     background-color: var(--secondary-alt);
+}
+
+/* empty card in activity thing */
+div.emptyCard-1RJw8n {
+    background-color: var(--secondary);
+}
+/* currently selected text channel */
+div.modeSelected-346R90 > div.content-1x5b-n.da-content {
+    background-color: var(--secondary);
+}
+/* hovering text channels */
+div.iconVisibility-sTNpHs.da-iconVisibility.wrapper-2jXpOf.da-wrapper:hover > div.content-1x5b-n.da-content:hover {
+    background-color: var(--secondary-alt);
+}
+
+/* discord icon at the top left (also themes my "read all" button, added by a plugin */
+.childWrapper-anI2G9 {
+    background-color: var(--primary);
+}
+
+/* unreads background */
+div.container-3u944p {
+    background-color: var(--primary);
 }
