@@ -1,18 +1,3 @@
-/* add San Francisco Font, if its installed
-
-put  
-
-body {
-    font-family: Whitney;
-}
-
-in custom css to disable
-
-*/
-body {
-    font-family: SF Pro Display, Whitney;
-}
-
 /* remove the little gradient left from the chatbox */
 .form-2fGMdU:before {
     height: 0;
