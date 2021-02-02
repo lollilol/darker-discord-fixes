@@ -234,3 +234,10 @@ button.item-3T2z1R.selectorButton-EEUWed:hover {
 button.item-3T2z1R.selectorButtonSelected-t5V9On {
     background-color: var(--accentcolor) !important;
 }
+/* mention autofill thing (its over the chatbox when you type @) */
+div.divider-23swzi {
+    background-color: var(--secondary) !important;
+}
+div.selectable-3dP3y-.selected-1Tbx07 {
+    background-color: var(--secondary-alt) !important;
+}
