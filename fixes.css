@@ -251,3 +251,11 @@ div.draggable-2E_4tJ:hover, div.da-voiceUser:hover, div.content-1Wq3SX:hover, di
  div.da-voiceUser.selected-3t3Csj > div.content-1Wq3SX {
     background-color: var(--secondary-alt) !important;
 }
+
+/* loading messages thing */
+div.wrapper-3vR61M.da-wrapper {
+    background-color: var(--primary)
+}
+  div.wrapper-1F5TKx.da-wrapper.cozy-12kSNU.da-cozy {
+    background-color: var(--primary)
+}
