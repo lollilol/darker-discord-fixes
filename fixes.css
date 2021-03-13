@@ -293,3 +293,15 @@ background-color: var(--secondary)
   div.unicodeShortcut-15J8Ck {
     background-color: var(--secondary-alt)
 }
+
+/* scrollbar for messages */
+div.messagesWrapper-1sRNjr.group-spacing-16 ::-webkit-scrollbar-track {
+    background-color: var(--primary) !important;
+  }
+  div.messagesWrapper-1sRNjr.group-spacing-16 ::-webkit-scrollbar-thumb {
+    background-color: var(--secondary) !important;
+  }
+  /* scrollbar in textbox */
+  div.channelTextArea-rNsIhG.channelTextArea-2VhZ6z ::-webkit-scrollbar-thumb {
+    background-color: var(--secondary-alt) !important;
+  }
