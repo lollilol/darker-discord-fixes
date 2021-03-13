@@ -259,3 +259,37 @@ div.wrapper-3vR61M.da-wrapper {
   div.wrapper-1F5TKx.da-wrapper.cozy-12kSNU.da-cozy {
     background-color: var(--primary)
 }
+
+/* gif and emoji panel */
+/* main panel */
+div.contentWrapper-SvZHNd {
+    background-color: var(--primary)
+  }
+  /* gif and emoji button */
+  button.navButton-2gQCx-.button-38aScr {
+    background-color: var(--primary)
+  }
+  /* gif and emoji button but pressed */
+  button.navButton-2gQCx-.button-38aScr.navButtonActive-1MkytQ {
+    background-color: var(--secondary)
+  }
+  /* emoji tab search bar */
+  div.inner-3ErfOT.thin-1ybCId.scrollerBase-289Jih {
+    background-color: var(--secondary)
+  }
+  /* heading for grouped server emojis */
+  div.wrapper-1-Fsb8.header-ywPcAE {
+    background-color: var(--primary)
+  }
+  /* emoji preview */
+  div.inspector-S2gM3e.inspector-3LQtX9 {
+    background-color: var(--secondary)
+  }
+  /* emoji tab left sidebar with server icons */
+  div.scroller-3gAZLs.list-donH_Z.scrollerBase-289Jih {
+    background-color: var(--secondary)
+  }
+  /* unicode shortcut / switch to normal emojis */
+  div.unicodeShortcut-15J8Ck {
+    background-color: var(--secondary-alt)
+  }
