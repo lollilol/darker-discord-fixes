@@ -305,3 +305,14 @@ div.messagesWrapper-1sRNjr.group-spacing-16 ::-webkit-scrollbar-thumb {
 div.channelTextArea-rNsIhG.channelTextArea-2VhZ6z ::-webkit-scrollbar-thumb {
   background-color: var(--secondary-alt) !important;
 }
+
+/* command autocompletion thing */
+div.scroller-3gAZLs.list-donH_Z.scrollerBase-289Jih {
+  background-color: var(--secondary-alt)
+}
+div.wrapper-1-Fsb8.categoryHeader-O1zU94 {
+  background-color: var(--secondary)
+}
+div.bar-AokMp3 {
+  background-color: var(--secondary)
+}
