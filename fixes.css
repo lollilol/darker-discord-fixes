@@ -316,3 +316,16 @@ div.wrapper-1-Fsb8.categoryHeader-O1zU94 {
 div.bar-AokMp3 {
   background-color: var(--secondary)
 }
+
+/* gift nitro email adress and payment option  */
+div.table-39R0Oe.invoice-28DmWy, div.select-2fjwPw.lookFilled-22uAsw {
+  background-color: var(--secondary)
+}
+/* join/create server button and explore */
+div.circleIconButton-jET_ig, div.da-circleIconButton {
+  background-color: var(--secondary)
+}
+/* opened folder icon and background */
+span.expandedFolderBackground-2sPsd-, div.expandedFolderIconWrapper-1xLaU- {
+  background-color: var(--secondary)
+}
