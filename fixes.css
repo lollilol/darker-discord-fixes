@@ -254,44 +254,44 @@ div.draggable-2E_4tJ:hover, div.da-voiceUser:hover, div.content-1Wq3SX:hover, di
 
 /* loading messages thing */
 div.wrapper-3vR61M.da-wrapper {
-    background-color: var(--primary)
+    background-color: var(--primary);
 }
   div.wrapper-1F5TKx.da-wrapper.cozy-12kSNU.da-cozy {
-    background-color: var(--primary)
+    background-color: var(--primary);
 }
 
 /* gif and emoji panel */
 /* main panel */
 div.contentWrapper-SvZHNd {
-    background-color: var(--primary)
+    background-color: var(--primary);
 }
 /* gif and emoji button */
 button.navButton-2gQCx-.button-38aScr {
-    background-color: var(--primary)
+    background-color: var(--primary);
 }
 /* gif and emoji button but pressed */
 button.navButton-2gQCx-.button-38aScr.navButtonActive-1MkytQ {
-    background-color: var(--secondary)
+    background-color: var(--secondary);
 }
 /* emoji tab search bar */
 div.inner-3ErfOT.thin-1ybCId.scrollerBase-289Jih {
-    background-color: var(--secondary)
+    background-color: var(--secondary);
 }
 /* heading for grouped server emojis */
 div.wrapper-1-Fsb8.header-ywPcAE {
-    background-color: var(--primary)
+    background-color: var(--primary);
 }
 /* emoji preview */
 div.inspector-S2gM3e.inspector-3LQtX9 {
-    background-color: var(--secondary)
+    background-color: var(--secondary);
 }
 /* emoji tab left sidebar with server icons */
 div.scroller-3gAZLs.list-donH_Z.scrollerBase-289Jih {
-    background-color: var(--secondary)
+    background-color: var(--secondary);
 }
 /* unicode shortcut / switch to normal emojis */
 div.unicodeShortcut-15J8Ck {
-    background-color: var(--secondary-alt)
+    background-color: var(--secondary-alt);
 }
 
 /* scrollbar for messages */
@@ -308,38 +308,38 @@ div.channelTextArea-rNsIhG.channelTextArea-2VhZ6z ::-webkit-scrollbar-thumb {
 
 /* command autocompletion thing */
 div.scroller-3gAZLs.list-donH_Z.scrollerBase-289Jih {
-  background-color: var(--secondary-alt)
+  background-color: var(--secondary-alt);
 }
 div.wrapper-1-Fsb8.categoryHeader-O1zU94 {
-  background-color: var(--secondary)
+  background-color: var(--secondary);
 }
 div.bar-AokMp3 {
-  background-color: var(--secondary)
+  background-color: var(--secondary);
 }
 
 /* gift nitro email adress and payment option  */
 div.table-39R0Oe.invoice-28DmWy, div.select-2fjwPw.lookFilled-22uAsw {
-  background-color: var(--secondary)
+  background-color: var(--secondary);
 }
 /* join/create server button and explore */
 div.circleIconButton-jET_ig, div.da-circleIconButton {
-  background-color: var(--secondary)
+  background-color: var(--secondary);
 }
 /* opened folder icon and background */
 span.expandedFolderBackground-2sPsd-, div.expandedFolderIconWrapper-1xLaU- {
-  background-color: var(--secondary)
+  background-color: var(--secondary);
 }
 
 /* create server */
 button.container-UC8Ug1 {
-  background-color: var(--secondary)
+  background-color: var(--secondary);
 }
 div.text-1FOLJS, div.title-3w8xhj, div.optionHeader-1-5lcp, div.footerTitle-2CYZch, div.title-LqAd9K, button.backButton-iA7KIs>div.contents-18-Yxp, div.skip-2o6MGG, div.title-Z_XiOC, button.button-38aScr>div.contents-18-Yxp {
   color: white
 }
 /* join server */
 div.inputWrapper-31_8H8.input--jS-j2 {
-  background-color: var(--secondary)
+  background-color: var(--secondary);
 }
 div.title-XLSR78, input.inputDefault-_djjkz.input-cIJ7To, div.sampleLink-2NLvZg {
   color: white
