@@ -297,6 +297,15 @@ div.unicodeShortcut-15J8Ck {
 div.diversitySelectorPopout-3FiGaM {
     background-color: var(--secondary);
 }
+/* same thing but when reacting to a message */
+/* top bar */
+div.header-8ilj5e {
+    background-color: var(--primary);
+}
+/* main background */
+div.scroller-3gAZLs.list-6NCENv.thin-1ybCId.scrollerBase-289Jih {
+    background-color: var(--primary);
+}
 
 /* scrollbar for messages */
 div.messagesWrapper-1sRNjr.group-spacing-16 ::-webkit-scrollbar-track {
