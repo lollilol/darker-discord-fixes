@@ -293,6 +293,10 @@ div.scroller-3gAZLs.list-donH_Z.scrollerBase-289Jih {
 div.unicodeShortcut-15J8Ck {
     background-color: var(--secondary-alt);
 }
+/* skin color selector */
+div.diversitySelectorPopout-3FiGaM {
+    background-color: var(--secondary);
+}
 
 /* scrollbar for messages */
 div.messagesWrapper-1sRNjr.group-spacing-16 ::-webkit-scrollbar-track {
