@@ -345,6 +345,8 @@ div.title-XLSR78, input.inputDefault-_djjkz.input-cIJ7To, div.sampleLink-2NLvZg 
   color: white
 }
 
+/* if plugin updated a popup shows up, this is the code of the bottom bar which has a little bit darker color */
 div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.directionRow-3v3tfG.justifyStart-2NDFzi.alignStretch-DpGPf3.noWrap-3jynv6.footer-2gL1pp {
     background-color: var(--secondary);
 }
+
