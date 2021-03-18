@@ -363,3 +363,11 @@ div.flex-1xMQg5.flex-1O1GKY.horizontal-1ae9ci.horizontal-2EEEnY.flex-1O1GKY.dire
     background-color: var(--secondary);
 }
 
+/* little popout */
+div.themedPopout-1TrfdI {
+    background-color: var(--primary);
+}
+/* input box on the popout */
+input.inputDefault-_djjkz.input-cIJ7To {
+    background-color: var(--secondary);
+}
