@@ -376,3 +376,14 @@ input.inputDefault-_djjkz.input-cIJ7To {
 div.option-3Ztn6N {
     background-color: var(--secondary);
 }
+
+/* reaction overview popup */
+div.scroller-1-nKid.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 {
+    background-color: var(--secondary);
+}
+div.reactors-Blmlhw.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 {
+    background-color: var(--primary);
+}
+div.reactionSelected-1pqISm {
+    background-color: var(--secondary-alt) !important;
+}
