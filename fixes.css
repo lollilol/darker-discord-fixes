@@ -354,9 +354,10 @@ span.expandedFolderBackground-2sPsd-, div.expandedFolderIconWrapper-1xLaU- {
 button.container-UC8Ug1 {
   background-color: var(--secondary);
 }
-div.text-1FOLJS, div.title-3w8xhj, div.optionHeader-1-5lcp, div.footerTitle-2CYZch, div.title-LqAd9K, button.backButton-iA7KIs>div.contents-18-Yxp, div.skip-2o6MGG, div.title-Z_XiOC, button.button-38aScr>div.contents-18-Yxp {
-  color: white
-}
+div.text-1FOLJS, div.title-3w8xhj, div.optionHeader-1-5lcp, div.footerTitle-2CYZch, div.title-LqAd9K, button.backButton-iA7KIs>div.contents-18-Yxp, div.skip-2o6MGG, div.title-Z_XiOC {
+    color: white
+  }
+  
 /* join server */
 div.inputWrapper-31_8H8.input--jS-j2 {
   background-color: var(--secondary);
