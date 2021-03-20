@@ -394,3 +394,8 @@ div.reactors-Blmlhw.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2 {
 div.reactionSelected-1pqISm {
     background-color: var(--secondary-alt) !important;
 }
+
+/* # icon on the beginning of a channel */
+div.emptyChannelIcon-cc932w {
+    background-color: var(--secondary);
+}
