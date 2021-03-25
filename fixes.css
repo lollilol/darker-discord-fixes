@@ -400,3 +400,14 @@ div.reactionSelected-1pqISm {
 div.emptyChannelIcon-cc932w {
     background-color: var(--secondary);
 }
+
+/* accept rules popup */
+div.guildSidebar-2OCzWB {
+    background-color: var(--secondary);
+}
+div.modalContent-1iyOR2 {
+    background-color: var(--primary);
+}
+div.formFieldWrapper-malor5.wrapperBase-x09xGp {
+    background-color: var(--secondary);
+}
