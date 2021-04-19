@@ -417,3 +417,14 @@ div.formFieldWrapper-malor5.wrapperBase-x09xGp {
 .scroller-1Bvpku.none-2Eo-qx.scrollerBase-289Jih {
     background-color: var(--secondary-alt);
 }
+
+
+/* code files embedded and popup */
+/* dirty, might fix later */
+div.container-1pMiXm,
+div.textContainer-C0szpm,
+div.colorHeaderSecondary-3Sp3Ft.footer-2yA7Ep,
+code.codeView-1JPDeA,
+code.scrollbar-3dvm_9 {
+    background-color: var(--secondary);
+}
