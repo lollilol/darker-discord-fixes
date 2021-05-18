@@ -428,3 +428,11 @@ code.codeView-1JPDeA,
 code.scrollbar-3dvm_9 {
     background-color: var(--secondary);
 }
+
+/* home page sidebar, friend activity */
+div.scroller-2ZPeAD.thin-1ybCId.scrollerBase-289Jih  {
+    background-color: var(--primary);
+}
+section.section-2gLsgF {
+    background-color: var(--secondary-alt);
+}
