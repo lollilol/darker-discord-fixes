@@ -82,13 +82,22 @@ li.feature-2w65J5.da-feature, div.promotionBanner-1fCSab.da-promotionBanner.bann
     background-color: var(--secondary);
 }
 
-/* connect your accounts in settings */
-div.accountList-33MS45.da-accountList {
+/* account connections widgets */
+div.accountList-33MS45 {
     background-color: var(--secondary);
 }
-button.inner-2Y6JuD.da-inner.accountBtnInner-sj5jLs.da-accountBtnInner {
+button.inner-2Y6JuD.accountBtnInner-sj5jLs {
+    background-color: var(--primary);
+}
+
+div.connectionHeader-2MDqhu {
+    background-color: var(--secondary);
+}
+div.connectionOptionsWrapper-3KIj1Z {
     background-color: var(--secondary-alt);
 }
+
+
 
 /* authorized apps */
 div.authedApp-mj2Hmd.da-authedApp.marginBottom8-AtZOdT.da-marginBottom8.cardPrimaryOutline-29Ujqw.card-3Qj_Yx.da-cardPrimaryOutline.da-card {
