@@ -457,3 +457,11 @@ section.section-2gLsgF {
 label.option-n0icdO {
     background-color: var(--secondary-alt);
 }
+
+/* transaction history - billing settings page */
+div.paymentPane-3bwJ6A.verticalFit-waKLYN, div.bottomDivider-1K9Gao.thin-1ybCId.scrollerBase-289Jih, div.hoverablePayment-Yc6mK7, div.pageActions-1SVAnA {
+    background-color: var(--secondary) !important;
+}
+div.bottomDivider-1K9Gao.thin-1ybCId.scrollerBase-289Jih:hover, div.hoverablePayment-Yc6mK7:hover {
+    background-color: var(--secondary-alt) !important;
+}
