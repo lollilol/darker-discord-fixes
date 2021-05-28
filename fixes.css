@@ -68,7 +68,7 @@ div.inner-2P4tQO {
 }
 
 /* footer in several dialogs (like the "pin message" or screen share dialog) */
-div.flex-1xMQg5.flex-1O1GKY.da-flex.horizontalReverse-2eTKWD {
+div.flex-1xMQg5.flex-1O1GKY.da-flex.horizontalReverse-2eTKWD, div.flex-1xMQg5.footer-2gL1pp {
     background-color: var(--secondary);
 }
 
