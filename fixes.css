@@ -465,3 +465,25 @@ div.paymentPane-3bwJ6A.verticalFit-waKLYN, div.bottomDivider-1K9Gao.thin-1ybCId.
 div.bottomDivider-1K9Gao.thin-1ybCId.scrollerBase-289Jih:hover, div.hoverablePayment-Yc6mK7:hover {
     background-color: var(--secondary-alt) !important;
 }
+
+/* new role ui */
+/* default permissions button in server settings */
+div.container-_phMUq {
+    background-color: var(--secondary);
+}
+div.container-_phMUq:hover {
+    background-color: var(--secondary-alt);
+}
+
+/* hover on overview role list */
+div.roleRow-30TwGe:hover {
+    background-color: var(--secondary-alt) !important;
+}
+
+/* when editing role, background on the "back" button */
+div.titleContainer-2CXtJo.titleElevated-c_kdi7 {
+    background-color: var(--primary);
+}
+div.header-2mZ9Ov.stickyHeader-hH_ZLl {
+    background-color: var(--primary);
+}
