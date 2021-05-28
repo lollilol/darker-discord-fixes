@@ -18,12 +18,17 @@ div.cozyMessage-3V1Y8y:hover {
     background-color: var(--primary);
 }
 
-/* avatar card in the "my account" settings page */
+/* my account" settings page */
+/* avatar card */
 div.background-1QDuV2 {
     background-color: var(--secondary-alt);
 }
 div.fieldList-21DyL8 {
     background-color: var(--secondary);
+}
+/* "edit" buttons */
+button.fieldButton-27bJrp.button-38aScr.lookFilled-1Gx00P.colorGrey-2DXtkV.sizeSmall-2cSMqn.grow-q77ONN {
+    background-color: var(--secondary-alt);
 }
 
 /* selection things with radio buttons, mostly seen in the settings */
