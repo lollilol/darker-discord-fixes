@@ -443,3 +443,8 @@ div.scroller-2ZPeAD.thin-1ybCId.scrollerBase-289Jih  {
 section.section-2gLsgF {
     background-color: var(--secondary-alt);
 }
+
+/* game overlay position selection (inactive) */
+label.option-n0icdO {
+    background-color: var(--secondary-alt);
+}
