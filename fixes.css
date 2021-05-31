@@ -182,25 +182,22 @@ div.da-searchHeader {
     background-color: var(--secondary-alt);
 }
 /* main message */
-div.message-1Ng5AR.da-message {
+div.message-1Ng5AR {
     background-color: var(--primary);
 }
-/* channel name */
-div.channelName-1JRO3C {
+/* search background and channel name */
+div.scroller-3GIiMh.thin-1ybCId.scrollerBase-289Jih, div.channelName-1JRO3C {
     background-color: var(--secondary);
 }
-/* search background */
-div.scroller-3GIiMh.da-scroller.thin-1ybCId.scrollerBase-289Jih {
-    background-color: var(--secondary);
+div.searchHeader-2XoQg7 {
+    background-color: var(--secondary-alt);
 }
 /* new, old, relevant buttons */
-div.tab-2j5AEF.da-tab.selected-2LAck8.da-selected {
-   background-color: var(--primary);
+div.tab-2j5AEF.selected-2LAck8 {
+    background-color: var(--primary) !important;
 }
-
-/* "jump to new messages" button */
-div.da-jumpToPresentBar.da-barBase {
-    background-color: var(--secondary-alt);
+div.tab-2j5AEF:hover {
+    background-color: var(--primary) !important;
 }
 
 div.da-tooltip.da-tooltipDisablePointerEvents.da-listItemTooltip {
