@@ -182,7 +182,7 @@ div.searchResultMessage-1fxgXh.hit-1fVM9e {
 
 /* new search page */
 /* search header */
-div.da-searchHeader {
+div.searchHeader-2XoQg7 {
     background-color: var(--secondary-alt);
 }
 /* main message */
@@ -192,9 +192,6 @@ div.message-1Ng5AR {
 /* search background and channel name */
 div.scroller-3GIiMh.thin-1ybCId.scrollerBase-289Jih, div.channelName-1JRO3C {
     background-color: var(--secondary);
-}
-div.searchHeader-2XoQg7 {
-    background-color: var(--secondary-alt);
 }
 /* new, old, relevant buttons */
 div.tab-2j5AEF.selected-2LAck8 {
