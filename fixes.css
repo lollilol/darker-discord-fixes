@@ -50,7 +50,7 @@ form.authBoxExpanded-2jqaBe.authBox-hW6HRx.theme-dark {
 }
 
 /* invitation screen */
-div.scroller-3__pG8.da-scroller.thin-1ybCId.scrollerBase-289Jih {
+div.scroller-3__pG8.thin-1ybCId.scrollerBase-289Jih {
     background-color: var(--primary);
 }
 
@@ -68,7 +68,7 @@ div.inner-2P4tQO {
 }
 
 /* footer in several dialogs (like the "pin message" or screen share dialog) */
-div.flex-1xMQg5.flex-1O1GKY.da-flex.horizontalReverse-2eTKWD, div.flex-1xMQg5.footer-2gL1pp {
+div.flex-1xMQg5.flex-1O1GKY.horizontalReverse-2eTKWD, div.flex-1xMQg5.footer-2gL1pp {
     background-color: var(--secondary);
 }
 
@@ -78,7 +78,7 @@ button.button-1YfofB.buttonColor-7qQbGO {
 }
 
 /* promotion cards in the discord nitro page and  */
-li.feature-2w65J5.da-feature, div.promotionBanner-1fCSab.da-promotionBanner.banner-WELp4M.da-banner {
+li.feature-2w65J5, div.promotionBanner-1fCSab.banner-WELp4M {
     background-color: var(--secondary);
 }
 
@@ -100,7 +100,7 @@ div.connectionOptionsWrapper-3KIj1Z {
 
 
 /* authorized apps */
-div.authedApp-mj2Hmd.da-authedApp.marginBottom8-AtZOdT.da-marginBottom8.cardPrimaryOutline-29Ujqw.card-3Qj_Yx.da-cardPrimaryOutline.da-card {
+div.authedApp-mj2Hmd.marginBottom8-AtZOdT.cardPrimaryOutline-29Ujqw.card-3Qj_Yx {
     background-color: var(--secondary);
 }
 
@@ -204,10 +204,6 @@ div.tab-2j5AEF:hover {
     background-color: var(--primary) !important;
 }
 
-div.da-tooltip.da-tooltipDisablePointerEvents.da-listItemTooltip {
-    background-color: var(--secondary-alt);
-}
-
 /* empty card in activity thing */
 div.emptyCard-1RJw8n {
     background-color: var(--secondary);
@@ -277,10 +273,10 @@ div.draggable-2E_4tJ:hover, div.voiceUser-1K6Xox:hover, div.content-1Wq3SX:hover
 }
 
 /* loading messages thing */
-div.wrapper-3vR61M.da-wrapper {
+div.wrapper-3vR61M {
     background-color: var(--primary);
 }
-  div.wrapper-1F5TKx.da-wrapper.cozy-12kSNU.da-cozy {
+  div.wrapper-1F5TKx.cozy-12kSNU {
     background-color: var(--primary);
 }
 
@@ -359,7 +355,7 @@ div.table-39R0Oe.invoice-28DmWy, div.select-2fjwPw.lookFilled-22uAsw {
   background-color: var(--secondary);
 }
 /* join/create server button and explore */
-div.circleIconButton-jET_ig, div.da-circleIconButton {
+div.circleIconButton-jET_ig {
   background-color: var(--secondary);
 }
 /* opened folder icon and background */
