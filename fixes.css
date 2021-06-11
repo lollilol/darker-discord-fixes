@@ -481,3 +481,11 @@ div.titleContainer-2CXtJo.titleElevated-c_kdi7 {
 div.header-2mZ9Ov.stickyHeader-hH_ZLl {
     background-color: var(--primary);
 }
+
+/* emoji popups */
+div.emojiSection-3Fb9ix {
+    background-color: var(--secondary);
+}
+div.guildSection-1EoFKd {
+    background-color: var(--secondary-alt);
+}
