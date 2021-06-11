@@ -452,6 +452,11 @@ label.option-n0icdO {
     background-color: var(--secondary-alt);
 }
 
+/* subscription information */
+div.detailsBlock-FoDTGA {
+    background-color: var(--secondary);
+}
+
 /* transaction history - billing settings page */
 div.paymentPane-3bwJ6A.verticalFit-waKLYN, div.bottomDivider-1K9Gao.thin-1ybCId.scrollerBase-289Jih, div.hoverablePayment-Yc6mK7, div.pageActions-1SVAnA {
     background-color: var(--secondary) !important;
@@ -489,3 +494,12 @@ div.emojiSection-3Fb9ix {
 div.guildSection-1EoFKd {
     background-color: var(--secondary-alt);
 }
+
+/* server boost popup */
+div.iconWrapper-3LVgIo {
+    background-color: var(--secondary-alt) !important;
+}
+div.upsellFooter-3coAfO {
+    background-color: var(--secondary);
+}
+
