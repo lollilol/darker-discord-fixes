@@ -529,3 +529,13 @@ div.chatHeaderBar-4vZS1x.narrow-1f-G-z {
 div.container-3hZ-gs {
     background-color: var(--secondary);
 }
+/* popup */
+div.tab-PQvTH4.active-30vPlA.selected-3s45Ha {
+    background-color: var(--primary) !important;
+}
+div.header-1VS4tm, div.container-2I9Hud {
+    background-color: var(--secondary-alt);
+}
+div.list-wek7hJ {
+    background-color: var(--secondary);
+}
